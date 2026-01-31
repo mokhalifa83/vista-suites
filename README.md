@@ -1,6 +1,8 @@
 # Vista Suites — The Bespoke Hospitality Experience
 ### *A high-precision design reconstruction focusing on cinematic motion and technical excellence.*
 
+[**✨ Live Demo**](https://mokhalifa83.github.io/vista-suites/)
+
 [![Lighthouse Score](https://img.shields.io/badge/Lighthouse-100%2F100-brightgreen)](https://pagespeed.web.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -57,7 +59,7 @@ open index.html
 *Full-Stack Engineer & Interaction Designer*
 
 Connect with me for professional inquiries or design collaborations:  
-[**Facebook Profile**](https://www.facebook.com/moekhalifa8/) | [**Portfolio**](https://www.facebook.com/moekhalifa8/)
+[**Facebook Profile**](https://www.facebook.com/moekhalifa8/) | [**Portfolio**](https://mokhalifa.site)
 
 ---
 *Generated with a commitment to technical precision and aesthetic excellence.*
