@@ -59,7 +59,7 @@ open index.html
 *Full-Stack Engineer & Interaction Designer*
 
 Connect with me for professional inquiries or design collaborations:  
-[**Facebook Profile**](https://www.facebook.com/moekhalifa8/) | [**Portfolio**](https://mokhalifa.site)
+[**Facebook Profile**](https://www.facebook.com/moekhalifa8/) | [**Personal Portfolio**](https://mokhalifa.site)
 
 ---
 *Generated with a commitment to technical precision and aesthetic excellence.*
