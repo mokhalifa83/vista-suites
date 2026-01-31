@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+.env
+.gemini
+Home.pdf
+TAN-Mon-Cheri
+red-hat-display-2
+*.bak
