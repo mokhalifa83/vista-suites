@@ -41,7 +41,7 @@ The "Premium" feel is achieved through intentional, orchestrated motion. I imple
 ## 📦 Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/moekhalifa8/vista-suites.git
+git clone https://github.com/mokhalifa83/vista-suites.git
 
 # Navigate to directory
 cd vista-suites
